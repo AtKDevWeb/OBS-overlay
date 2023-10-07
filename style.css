@@ -1,0 +1,39 @@
+body{
+    aspect-ratio: 16 / 9;
+    margin: 0;
+}
+
+.flex-container {
+    display: flex;
+}
+
+#canvas {          
+    width: 1920px;
+    height: 1080px;
+    background-color: aqua;
+}
+
+#screen {    
+    width: 1600px;
+    height: 900px;  
+    background-color:black;
+}
+
+#side-panel {      
+    flex-direction: column;
+    flex: 1;        
+    background-color: brown;
+}
+
+#camera {
+    aspect-ratio: 16 / 9;        
+    background-color:blue;    
+}
+
+#chat {
+    flex-direction: column;
+    flex: 1;
+    border: none;
+    background-color: blueviolet;
+}
+
