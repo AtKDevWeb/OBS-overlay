@@ -3,19 +3,29 @@ body{
     overflow: hidden;        
 }
 
-.flex-container {
-    display: flex;      
+iframe {
+    border: none;
 }
 
-#canva { 
+.flex-container {
+    display: flex;      
     height: 100vh;
 }
 
-#side-panel {        
-    height: 100%;
-}
+/* #alerts {
 
-#chat {
-    height: 100%;
-    border: none;    
-}
+} */
+
+/* #canva { 
+    
+} */
+
+/* #side-panel {        
+    
+} */
+
+/* #chat {    
+    
+} */
+
+
