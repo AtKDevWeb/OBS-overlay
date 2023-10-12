@@ -15,7 +15,3 @@ iframe {
 .content {
     display: flex;    
 }
-
-#panel {
-    flex-grow: 1;
-}
