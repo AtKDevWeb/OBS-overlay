@@ -14,17 +14,16 @@ body{
 }
 
 #chat {
-    flex: 0 0 30%;
-    border: none;
+    flex: 0 0 30%;    
 }
 
 #alerts {
     flex-grow: 1; 
-    border: none;
 }
 
 iframe {
     width: 100%;
     height: 100%;
     box-sizing: border-box;
+    border: none;
 }
