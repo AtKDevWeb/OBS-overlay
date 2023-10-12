@@ -7,25 +7,15 @@ iframe {
     border: none;
 }
 
-.flex-container {
-    display: flex;      
+.container {
+    display: flex;
     height: 100vh;
 }
 
-/* #alerts {
+.content {
+    display: flex;    
+}
 
-} */
-
-/* #canva { 
-    
-} */
-
-/* #side-panel {        
-    
-} */
-
-/* #chat {    
-    
-} */
-
-
+#panel {
+    flex-grow: 1;
+}
