@@ -3,13 +3,13 @@ body{
     overflow: hidden;        
 }
 
+.flex {
+    display: flex;
+}
+
 #canva{
     height: 100vh;
     display: flex;    
-}
-
-.flex {
-    display: flex;
 }
 
 #chat {
