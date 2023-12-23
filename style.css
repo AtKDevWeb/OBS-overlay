@@ -8,16 +8,11 @@ body{
 }
 
 #canva{
-    height: 100vh;
-    display: flex;    
+    height: 100vh;    
 }
 
 #chat {
     flex-basis: 30%;    
-}
-
-#alerts {
-    flex-grow: 1; 
 }
 
 iframe {
